@@ -50,7 +50,7 @@ files_path = path of the folder which contains all 1400 files(1400_UnSeperated)
 
    Once you have changed the filepaths: you can execute the program by typing: python preprocess.py
 
-===============================NAVIE BAYES====================================
+===============================NAIVE BAYES====================================
 The Code folder has a folder called NaiveBayesProject. This folder will provide you with a python 
 scripts to implement the Naive Bayes classifier as mentioned in the Report. 
 
