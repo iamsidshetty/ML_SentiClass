@@ -1,9 +1,9 @@
-**************************MACHINE LEARNING PROJECT FALL 2013********************************
+**************************MACHINE LEARNING PROJECT********************************
 @Sudarshan
 shetty.sud@gmail.com
 Title: Sentimental Classification of IMDb Movie Reviews
 Date: 12/14/2013
-****************************************README**********************************************
+************************************README****************************************
 
 I have used python programming/scripting language to code my implementations. 
 
