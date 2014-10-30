@@ -1,3 +1,6 @@
+This folder contains the code for Sentiment Classification of IMDB movie reviews. 
+Read the following before executing the codes.
+
 **************************MACHINE LEARNING PROJECT********************************
 @Sudarshan
 shetty.sud@gmail.com
