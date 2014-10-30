@@ -25,8 +25,7 @@ oringinal folder has the data that was obtained from the Cornell NLP site. Origi
 has 3 folders in it,
 	1. 1400_UnSeperated - all 1400 files 
 	2. dataset_original - with 700 positive and 700 negatives files and also the README.
-			      For more information on the dataset, you can have a look at the
-			      README file in this folder.
+		For more information on the dataset, you can have a look at the README file in this folder.
 	3. weka_dataset_original - the .arff format file of all 1400 reviews
 
 split folder contains the different Datasets which I have used in my experimentations. 
@@ -57,7 +56,7 @@ files_path = path of the folder which contains all 1400 files(1400_UnSeperated)
 The Code folder has a folder called NaiveBayesProject. This folder will provide you with a python 
 scripts to implement the Naive Bayes classifier as mentioned in the Report. 
 
-    Execution Steps : python main.py
+  Execution Steps : python main.py
 
 Supporting files: second.py
 
