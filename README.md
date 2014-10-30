@@ -13,8 +13,8 @@ I have used python programming/scripting language to code my implementations.
 	Python version: 2.7
 	Supporting APIs: nltk (http://nltk.org/install.html)
 
-Download the Dataset from this link(IMDb Dataset – Machine Learning Project ):
-			http://edusid.com/blog/resources/
+Download the Dataset from this link(IMDb Dataset – Machine Learning Project )
+	http://edusid.com/blog/resources/
 			
 ==============================DATASET DESCRIPTION================================
 
