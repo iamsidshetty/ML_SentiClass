@@ -1,12 +1,14 @@
 This folder contains the code for Sentiment Classification of IMDB movie reviews. 
 Read the following before executing the codes.
 
-**************************MACHINE LEARNING PROJECT********************************
-@Sudarshan
-shetty.sud@gmail.com
+**************************MACHINE LEARNING PROJECT*****************************
+copyright: Sudarshan
+email: shetty.sud@gmail.com
 Title: Sentimental Classification of IMDb Movie Reviews
 Date: 12/14/2013
-************************************README****************************************
+
+
+************************************README*************************************
 
 I have used python programming/scripting language to code my implementations. 
 
@@ -16,7 +18,7 @@ I have used python programming/scripting language to code my implementations.
 Download the Dataset from this link(IMDb Dataset – Machine Learning Project )
 	http://edusid.com/blog/resources/
 			
-==============================DATASET DESCRIPTION================================
+==============================DATASET DESCRIPTION==============================
 
 The Dataset folder has all the data needed to execute the code. Dataset folder has two 
 sub-folders in it namely original and split. 
@@ -39,7 +41,7 @@ split folder contains the different Datasets which I have used in my experimenta
 		train: 280 pos 280 neg 	
 		test : 420 pos 420 neg
 
-==============================BASELINE SYSTEM=================================
+==============================BASELINE SYSTEM==============================
 The Code folder has a folder called Preprocessing. This folder will provide you with a python 
 script(preprocess.py) to implement the baseline system as mentioned in the Report. Also, the 
 folder contains two files, negative and positive, which will give you the list of word used in
@@ -52,7 +54,7 @@ files_path = path of the folder which contains all 1400 files(1400_UnSeperated)
 
    Once you have changed the filepaths: you can execute the program by typing: python preprocess.py
 
-===============================NAIVE BAYES====================================
+===============================NAIVE BAYES=================================
 The Code folder has a folder called NaiveBayesProject. This folder will provide you with a python 
 scripts to implement the Naive Bayes classifier as mentioned in the Report. 
 
@@ -60,7 +62,7 @@ scripts to implement the Naive Bayes classifier as mentioned in the Report.
 
 Supporting files: second.py
 
-=============================LOGISTIC REGRESSION==============================
+=============================LOGISTIC REGRESSION============================
 The Code folder has a folder called LogisticRegressionProject. This folder will provide you with 
 a python scripts to implement the LR classifier as mentioned in the Report. 
 
@@ -77,7 +79,7 @@ Once you have changed the filepaths: you can execute the program by typing: pyth
 Supporting files: second.py
 				  LR.py
 
-=============================SUPPORT VECTOR MACHINES===========================
+=============================SUPPORT VECTOR MACHINES========================
 I have mad use of Weks Machine Learning tool for implementing SVM's. Weka has LibSVM classifier in it, 
 we will make use of this classifier.
 
@@ -112,5 +114,5 @@ various options available on LibSVM.
 Once you have selected the KernelType and SVMType, we need to split the loaded file into training and testing, 
 we can do this by using the percentage split option and specifying the split %age.
 
-========================================END OF README===========================================================
+========================================END OF README==============================
 
