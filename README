@@ -1,9 +1,9 @@
-##############################################################################
- ##MACHINE LEARNING PROJECT: Sentiment Classification of IMDB movie reviews##
- ##copyright: Sudarshan													   ##
- ##email: shetty.sud@gmail.com											   ##
- ##Date: 12/14/2013                                                        ##
-##############################################################################
+###########################################################################
+ ##MACHINE LEARNING: Sentiment Classification of IMDB movie reviews     ##
+ ##copyright: Sudarshan												    ##
+ ##email: shetty.sud@gmail.com									        ##
+ ##Date: 12/14/2013                                                     ##
+###########################################################################
 
 I have used python programming/scripting language to code my implementations.
 
@@ -13,7 +13,7 @@ I have used python programming/scripting language to code my implementations.
 Download the Dataset from this link(IMDb Dataset – Machine Learning Project )
 	http://edusid.com/blog/resources/
 
-------------------------------DATASET DESCRIPTION------------------------------
+----------------------------DATASET DESCRIPTION----------------------------
 
 The Dataset folder has all the data needed to execute the code. Dataset
 folder has two sub-folders in it namely original and split.
@@ -62,7 +62,7 @@ as mentioned in the Report.
 
 	Supporting files: second.py
 
-------------------------------LOGISTIC REGRESSION------------------------------
+---------------------------LOGISTIC REGRESSION---------------------------
 The Code folder has a folder called LogisticRegressionProject. This folder will
 provide you with a python scripts to implement the LR classifier as mentioned in
 the Report.
@@ -84,7 +84,7 @@ Once you have changed the filepaths: you can execute the program by typing:
 				second.py
 				LR.py
 
--------------------------------SUPPORT VECTOR MACHINES-------------------------------
+---------------------------SUPPORT VECTOR MACHINES---------------------------
 I have mad use of Weks Machine Learning tool for implementing SVM's. Weka has
 LibSVM classifier in it, we will make use of this classifier.
 
@@ -123,5 +123,5 @@ Once you have selected the KernelType and SVMType, we need to split the loaded f
 into training and testing, we can do this by using the percentage split option and
 specifying the split %age.
 
---------------------------------END OF README--------------------------------
+-----------------------------END OF README-----------------------------
 
