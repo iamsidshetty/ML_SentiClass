@@ -11,8 +11,8 @@ def logisticRegression(Vocabulary, pFilespath, nFilespath):
     rows = len(pFilespath) + len(nFilespath)
     total_columns = len(Vocabulary)
 
-    wo = 4692685701   #pos
-    w1 = 9008641697   #neg
+    wo = 9999999999   #pos
+    w1 = 1111111111   #neg
 
     listoflists = []
     for eachfile in pFilespath:
@@ -85,8 +85,8 @@ def logisticRegression(Vocabulary, pFilespath, nFilespath):
 
 
 def logistictesting(Vocabulary, wgt, testpos, testneg):
-    wo = 4692685701   #pos
-    w1 = 9008641697   #neg
+    wo = 9999999999   #pos
+    w1 = 1111111111   #neg
     rows = len(testneg) + len(testpos)
 
     listoflistsfortest = []
